@@ -8,8 +8,8 @@ Studying the world trade network (WTN) has played a significant role in internat
 * [Quinto, Joanna G.](https://github.com/joaquin73)
 
 ## Datasets
-* [2012 to 2019 BACI-CEPII trade flow dataset](http://www.cepii.fr/CEPII/en/bdd_modele/presentation.asp?id=37)
-* [International Monetary Fund's Direction of Trade Statistics dataset](https://data.imf.org/?sk=9D6028D4-F14A-464C-A2F2-59B2CD424B85) (_for visuals only_)
+* [2012 to 2019 BACI-CEPII trade flow dataset](http://www.cepii.fr/CEPII/en/bdd_modele/presentation.asp?id=37) (2.75 GB)
+* [International Monetary Fund's Direction of Trade Statistics dataset](https://data.imf.org/?sk=9D6028D4-F14A-464C-A2F2-59B2CD424B85) (1.45 GB, _for visuals only_)
 
 ## Notes
 * Dear peer-reviewers, this is a WIP-in-progress, please bear with us as we fix this for our professional portfolio
